@@ -1,0 +1,48 @@
+Name: Priya  Patil
+Career: web developer
+Skills: html,css,python,java
+------------------------
+Name: sneha hetkale
+Career: Frontend Developer
+Skills: HTML,CSS
+------------------------
+Name: Anuja Gurav
+Career: Backend Developer
+Skills: python ,java
+------------------------
+Name: sneha hetkale
+Career: Frontend Developer
+Skills: HTML,CSS
+------------------------
+Name: sneha hetkale
+Career: Frontend Developer
+Skills: HTML,CSS
+------------------------
+Name: sneha hetkale
+Career: Frontend Developer
+Skills: HTML,CSS
+------------------------
+Name: sneha hetkale
+Career: Frontend Developer
+Skills: HTML,CSS
+------------------------
+Name: Priya  Patil
+Career: web developer
+Skills: HTML,CSS,python,java
+------------------------
+Name: Priya  Patil
+Career: web developer
+Skills: HTML,CSS,python,java
+------------------------
+Name: Priya  Patil
+Career: web developer
+Skills: HTML,CSS,python,java
+------------------------
+Name: Anesha Gurale
+Career: web developer
+Skills: HTML,CSS,python,java
+------------------------
+Name: Sneha Hetkale
+Career: web developer
+Skills: HTML,CSS,python
+------------------------
